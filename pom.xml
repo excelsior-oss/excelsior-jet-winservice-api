@@ -20,16 +20,16 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Excelsior WinService API</name>
+    <name>Excelsior JET WinService API</name>
 
     <url>https://github.com/${github-repo-owner}/${github-repo}</url>
     <description>
-        The Excelsior JET WinService API eases conversion of programs written in the Java programming language into Windows services.
+        The Excelsior JET WinService API eases conversion of programs designed to run on the JVM into Windows services.
     </description>
 
     <licenses>
         <license>
-            <name>Apache License</name>
+            <name>Apache 2.0 License</name>
             <url>http://www.apache.org/licenses/LICENSE-2.0</url>
         </license>
     </licenses>
