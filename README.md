@@ -19,7 +19,7 @@ as other JVM implementations do not support it.
 
 ### Usage
 
-To reference WinService API from Maven add the following dependency into the `<dependencies>` section  of your `pom.xml` file:
+To include the WinService API in a Maven-based build, add the following dependency to the `<dependencies>` section  of your `pom.xml` file:
 
 ```xml
 <dependency>
@@ -30,7 +30,7 @@ To reference WinService API from Maven add the following dependency into the `<d
 </dependency>
 ```
 
-To reference WinService API from Gradle add the following dependency into your `build.gradle` file:
+To include the WinService API in a Gradle-based build, add the following dependency to your `build.gradle` file:
 
 ```gradle
 dependencies {
